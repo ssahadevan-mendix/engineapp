@@ -1,7 +1,7 @@
 # engineapp
 StockAnalyzer that can be deployed to App Engine.  Python
 
-+++Note: Updated to use th Yahoo API's - Work In Progress
+===Note: Updated to use th Yahoo API's - Work In Progress
 
 Store your API_KEY in .env file
 
