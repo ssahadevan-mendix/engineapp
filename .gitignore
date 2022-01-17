@@ -24,3 +24,11 @@ $RECYCLE.BIN/
 *.pyc
 *.pyc
 *.pyc
+.env
+apikey.txt
+response.txt
+sampleData.json
+getFundStats.pyc
+getMacroData.pyc
+*.pyc
+.README.md.swp
