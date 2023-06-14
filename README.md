@@ -1,11 +1,9 @@
-# engineapp
-StockAnalyzer that can be deployed to App Engine.  Python
 ### Note: Updated to use th Yahoo API's - Work In Progress
 
 Store your API_KEY in .env file
 
 
-###Pre-requisites:
+### Pre-requisites:
 sudo pip3 install BeautifulSoup4
 sudo pip3 install python-decouple
 sudo pip3 install requests
